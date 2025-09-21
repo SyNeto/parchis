@@ -1,0 +1,2 @@
+# Parchis (simplified)
+
